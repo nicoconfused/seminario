@@ -1,4 +1,5 @@
-body{background-color: yellow;}
+body{background-color: yellow;
+font-family: 'Nova Oval', cursive;}
 
 
    /* por el punto al principio del selector, esta es una regla para una clase de nombre container */
